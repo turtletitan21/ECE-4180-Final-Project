@@ -1,0 +1,9 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed$
+^wave_player$
+^Nav_Switch$
+^4DGL-uLCD-SE$
